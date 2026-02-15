@@ -30,7 +30,7 @@ The main purpose of this project is to practice front-end development skills, im
 ## 🌐 How to Visit (Live Demo)
 
 You can view the live website here:  
-👉 **[Visit Website](https://your-live-link-here.com)**  
+👉 **[Visit Website]((https://thangamanir27.github.io/udemy-clone-simple-website/)**  
 
 ## 📌 Future Improvements
 
